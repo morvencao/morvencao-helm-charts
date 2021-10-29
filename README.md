@@ -1,5 +1,7 @@
 # Kubernetes Helm Charts
 
+[![Release Charts](https://github.com/morvencao/helm-charts/actions/workflows/release.yml/badge.svg)](https://github.com/morvencao/helm-charts/actions/workflows/release.yml)
+
 Kubernetes helm charts repository hosted by Github Page
 
 ## Usage
